@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/riozishan/DSA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/riozishan/DSA/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
