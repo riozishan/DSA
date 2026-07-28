@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 | [3945-digit-frequency-score](https://github.com/riozishan/DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/riozishan/DSA/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/riozishan/DSA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/riozishan/DSA/tree/master/0551-student-attendance-record-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
