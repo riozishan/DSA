@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/riozishan/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/riozishan/DSA/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/riozishan/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/riozishan/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riozishan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/riozishan/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
