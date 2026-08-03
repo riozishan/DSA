@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/riozishan/DSA/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/riozishan/DSA/tree/master/0551-student-attendance-record-i) |
+| [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
@@ -60,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/riozishan/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
