@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/riozishan/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/riozishan/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/riozishan/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/riozishan/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/riozishan/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/riozishan/DSA/tree/master/0367-valid-perfect-square) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/riozishan/DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/riozishan/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/riozishan/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/riozishan/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -102,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/riozishan/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/riozishan/DSA/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riozishan/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/riozishan/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/riozishan/DSA/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -120,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/riozishan/DSA/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
