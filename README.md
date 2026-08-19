@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/riozishan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3945-digit-frequency-score](https://github.com/riozishan/DSA/tree/master/3945-digit-frequency-score) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/riozishan/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/riozishan/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/riozishan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/riozishan/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/riozishan/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/riozishan/DSA/tree/master/0541-reverse-string-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riozishan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/riozishan/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riozishan/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riozishan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riozishan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
