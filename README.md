@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/riozishan/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/riozishan/DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/riozishan/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/riozishan/DSA/tree/master/1051-height-checker) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/riozishan/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/riozishan/DSA/tree/master/0342-power-of-four) |
