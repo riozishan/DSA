@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/riozishan/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/riozishan/DSA/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/riozishan/DSA/tree/master/0709-to-lower-case) |
+| [1446-consecutive-characters](https://github.com/riozishan/DSA/tree/master/1446-consecutive-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
