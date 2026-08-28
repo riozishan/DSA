@@ -5,8 +5,8 @@ public:
         int zcount = 1;
         int maxocount = 0;
         int maxzcount = 0;
-        if(s.length()==1){
-            if(s[0]=='1'){
+        if (s.length() == 1) {
+            if (s[0] == '1') {
                 maxocount++;
             }
         }
@@ -17,8 +17,7 @@ public:
                 } else {
                     zcount++;
                 }
-            } 
-            else {
+            } else {
                 if (s[i] == '1') {
                     ocount = 1;
                 } else {
