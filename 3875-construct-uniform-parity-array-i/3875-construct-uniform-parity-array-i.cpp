@@ -21,7 +21,7 @@ public:
         }
         int allEven = 1;
         for (int x : nums1) {
-            if (x % 2 == 1) {
+            if (x % 2 != 0) {
                 if (oddcount < 2 && evencount == 0) {
                     allEven = 1;
                     break;
