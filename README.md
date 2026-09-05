@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/riozishan/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/riozishan/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riozishan/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riozishan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/riozishan/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/riozishan/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riozishan/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riozishan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/riozishan/DSA/tree/master/0905-sort-array-by-parity) |
