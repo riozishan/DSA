@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/riozishan/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/riozishan/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/riozishan/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/riozishan/DSA/tree/master/0414-third-maximum-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/riozishan/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/riozishan/DSA/tree/master/0541-reverse-string-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/riozishan/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riozishan/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
