@@ -10,8 +10,7 @@ public:
             if (nums[i] % 2 == 0) {
                 arr[even] = nums[i];
                 even += 2;
-            }
-            else {
+            } else {
                 arr[odd] = nums[i];
                 odd += 2;
             }
