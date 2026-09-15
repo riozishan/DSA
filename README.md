@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/riozishan/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riozishan/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riozishan/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/riozishan/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/riozishan/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/riozishan/DSA/tree/master/3668-restore-finishing-order) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/riozishan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/riozishan/DSA/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riozishan/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riozishan/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riozishan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riozishan/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/riozishan/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
