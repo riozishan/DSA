@@ -5,14 +5,11 @@ public:
         for (int i = 1; i <= n; i++) {
             if ((i % 3 == 0) && (i % 5 == 0)) {
                 arr[i - 1] = "FizzBuzz";
-            }
-            else if (i % 3 == 0) {
+            } else if (i % 3 == 0) {
                 arr[i - 1] = "Fizz";
-            }
-            else if (i % 5 == 0) {
+            } else if (i % 5 == 0) {
                 arr[i - 1] = "Buzz";
-            } 
-            else {
+            } else {
                 string s = to_string(i);
                 arr[i - 1] = s;
             }
