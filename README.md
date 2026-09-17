@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/riozishan/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
+| [3884-first-matching-character-from-both-ends](https://github.com/riozishan/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/riozishan/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/riozishan/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
