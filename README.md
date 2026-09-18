@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/riozishan/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riozishan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/riozishan/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/riozishan/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/riozishan/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/riozishan/DSA/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/riozishan/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/riozishan/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/riozishan/DSA/tree/master/0412-fizz-buzz) |
+| [2169-count-operations-to-obtain-zero](https://github.com/riozishan/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
 ## Bit Manipulation
 |  |
