@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riozishan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riozishan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/riozishan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/riozishan/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/riozishan/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riozishan/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/riozishan/DSA/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riozishan/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/riozishan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riozishan/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/riozishan/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riozishan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/riozishan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/riozishan/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riozishan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/riozishan/DSA/tree/master/3731-find-missing-elements) |
