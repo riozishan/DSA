@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/riozishan/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/riozishan/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/riozishan/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/riozishan/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riozishan/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riozishan/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/riozishan/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/riozishan/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/riozishan/DSA/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/riozishan/DSA/tree/master/0905-sort-array-by-parity) |
