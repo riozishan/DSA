@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/riozishan/DSA/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/riozishan/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/riozishan/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/riozishan/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/riozishan/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/riozishan/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riozishan/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/riozishan/DSA/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/riozishan/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/riozishan/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/riozishan/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/riozishan/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/riozishan/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/riozishan/DSA/tree/master/3668-restore-finishing-order) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/riozishan/DSA/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/riozishan/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/riozishan/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/riozishan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riozishan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/riozishan/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
