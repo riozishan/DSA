@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/riozishan/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riozishan/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/riozishan/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riozishan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/riozishan/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/riozishan/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/riozishan/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/riozishan/DSA/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/riozishan/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/riozishan/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/riozishan/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
