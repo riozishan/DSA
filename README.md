@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/riozishan/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/riozishan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/riozishan/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/riozishan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/riozishan/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/riozishan/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/riozishan/DSA/tree/master/3668-restore-finishing-order) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/riozishan/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2810-faulty-keyboard](https://github.com/riozishan/DSA/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/riozishan/DSA/tree/master/2942-find-words-containing-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/riozishan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/riozishan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/riozishan/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
