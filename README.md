@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/riozishan/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/riozishan/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/riozishan/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riozishan/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/riozishan/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riozishan/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/riozishan/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/riozishan/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/riozishan/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/riozishan/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/riozishan/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/riozishan/DSA/tree/master/0169-majority-element) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/riozishan/DSA/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riozishan/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Euclidean Algorithm
 |  |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/riozishan/DSA/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/riozishan/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/riozishan/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
