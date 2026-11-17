@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/riozishan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/riozishan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/riozishan/DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/riozishan/DSA/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Array
 |  |
 | ------- |
